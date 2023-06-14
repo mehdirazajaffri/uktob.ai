@@ -108,7 +108,7 @@ The application will be accessible at http://localhost:5000.
   "message": "Access granted."
 }
 
-or 
+or
 
 {
   "message": "Access denied."
