@@ -107,9 +107,11 @@ The application will be accessible at http://localhost:5000.
 {
   "message": "Access granted."
 }
+```
 
-or
+or Failure Response
 
+```json
 {
   "message": "Access denied."
 }
