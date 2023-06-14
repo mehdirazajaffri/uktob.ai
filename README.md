@@ -132,3 +132,19 @@ curl -X POST -H "Content-Type: application/json" -d '{"username": "mehdiraza", "
 
 
 
+# React App for Uktob.ai
+
+In the project directory, you can run:
+
+```bash
+    cd frontend
+    npm install
+```
+
+### `npm start`
+
+```bash
+    npm start
+```
+
+App will be available at http://localhost:3000/
